@@ -60,9 +60,8 @@ Currently focused on mastering DSA and creating impactful real-world projects.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjan28052006&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Anjan28052006&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🧠 Developer Mindset
